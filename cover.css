@@ -16,8 +16,8 @@
  * Base structure
  */
 
- body{
-  background-image:linear-gradient(to right, #40E0D0, #FF8C00, #FF0080)
+body{
+  background: linear-gradient(to right, #424242, #000000);
 }
 
 .cover-container {
